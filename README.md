@@ -2,10 +2,8 @@
 
 ## Website Intentions:
 
-My intentions in the creation of this website are twofold:
-
-1. **Personal Notes**: I'd like to make a set of notes for myself that I can easily reference and update from any computer.
-2. **Student Support**: I'd like to make materials useful to students of various subjects.
+My intentions for this website are simply to create a set of permenant notes that I can access, and easily modify, from anywhere.
+I would like to emphasize that these notes are made primarily for me, so they may or may not be useful to others.
 
 If possible, I would like to exercise my programming skills a little bit to make some interactive javascript elements as well.
 Additionally, before each subject, I will include a description of prerequisite knowledge, of which may or may not be on this website.

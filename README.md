@@ -1,4 +1,6 @@
-# Website Intentions
+# Spencer's Online Notes
+
+## Website Intentions:
 
 My intentions in the creation of this website are twofold:
 
@@ -8,7 +10,7 @@ My intentions in the creation of this website are twofold:
 If possible, I would like to exercise my programming skills a little bit to make some interactive javascript elements as well.
 Additionally, before each subject, I will include a description of prerequisite knowledge, of which may or may not be on this website.
 
-## Planned Subjects
+## Planned Subjects:
 
 ### Math:
 - Algebra

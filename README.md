@@ -26,7 +26,7 @@ Additionally, before each subject, I will include a description of prerequisite 
 ### Electrical Engineering:
 - Electronics
 
-### Computer Science: (TBD)
+### Computer Science:
 
 ### Literature:
 - Writing
